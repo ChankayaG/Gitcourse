@@ -1,4 +1,4 @@
 function greet(name) {
     return `Hello, ${name}!`;
 }
-console.log(greet("Gitcourse"));
+console.log(greet("Gitpractice"));
